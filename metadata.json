@@ -1,0 +1,8 @@
+{
+  "name": "Campus Finder ",
+  "description": "Smart, AI-powered lost and found ecosystem with trust verification and matching.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
